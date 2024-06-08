@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oluctate.github.io/sitemap.html
+Sitemap: https://oluctate.github.io/app/sitemap.html
+Sitemap: https://oluctate.github.io/assets/sitemap.html
+Sitemap: https://oluctate.github.io/includes/sitemap.html
+Sitemap: https://oluctate.github.io/src/sitemap.html
